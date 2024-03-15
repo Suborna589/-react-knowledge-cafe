@@ -1,0 +1,44 @@
+[
+    {
+      "id": "123456",
+      "cover_img": "[Link to cover image]",
+      "title": "The Mystery of Emerald Hill",
+      "author": "Jane Smith",
+      "author_img": "[Link to author image]",
+      "posted_date": "March 15, 2024",
+      "reading_time": "20 minutes",
+      "hashtags": ["#Mystery", "#Thriller", "#Adventure"]
+    },
+    {
+      "id": "789012",
+      "cover_img": "[Link to cover image]",
+      "title": "Echoes of Silence",
+      "author": "John Doe",
+      "author_img": "[Link to author image]",
+      "posted_date": "March 14, 2024",
+      "reading_time": "25 minutes",
+      "hashtags": ["#Suspense", "#Drama", "#Intrigue"]
+    },
+    {
+      "id": "345678",
+      "cover_img": "[Link to cover image]",
+      "title": "Whispers in the Wind",
+      "author": "Emily Johnson",
+      "author_img": "[Link to author image]",
+      "posted_date": "March 13, 2024",
+      "reading_time": "18 minutes",
+      "hashtags": ["#Romance", "#Love", "#Tragedy"]
+    },
+    {
+      "id": "901234",
+      "cover_img": "[Link to cover image]",
+      "title": "Shadows of Destiny",
+      "author": "Michael Brown",
+      "author_img": "[Link to author image]",
+      "posted_date": "March 12, 2024",
+      "reading_time": "30 minutes",
+      "hashtags": ["#Fantasy", "#Magic", "#Adventure"]
+    }
+  
+  ]
+  
